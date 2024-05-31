@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CieloImmortal1003
+- 👋 Hi, I’m Suprateek I
 - 👀 I’m interested in Data
 - 🌱 I’m currently learning to understand and play with Data
 - 💞️ I’m looking to collaborate on ...
